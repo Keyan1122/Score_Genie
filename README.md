@@ -23,33 +23,19 @@ The project uses the [Student Performance Dataset](https://archive.ics.uci.edu/m
 ## Project Structure
 
 ScoreGenie/
-
 │
-
 ├── data/
-
 │ └── student-mat.csv # Dataset
-
 ├── notebooks/
-
 │ └── eda.py # Exploratory Data Analysis
-
 ├── src/
-
 │ ├── preprocessing.py # Data loading and preprocessing
-
 │ ├── model.py # Model training code
-
 │ └── evaluate.py # Model evaluation metrics
-
 ├── app/
-
 │ └── streamlit_app.py # Interactive Streamlit app
-
 ├── main.py # Main script to train and evaluate model
-
 ├── requirements.txt # Dependencies
-
 └── README.md # Project overview and instructions
 
 ---
